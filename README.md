@@ -11,3 +11,5 @@ test
 poetry add pytest     
 poetry run pytest  
 poetry add pytest -v  
+poetry build     (upload file to pypi)
+poetry publish  
